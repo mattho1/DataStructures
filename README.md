@@ -8,3 +8,5 @@ The program implements data structures:
 <br/>Binary Search Tree
 <br/>Table
 <br/>and operations on them
+<br/><br/>
+The program accepts data in a txt file or generates test data after selecting the test option at the beginning of the program.
