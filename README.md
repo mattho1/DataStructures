@@ -1,11 +1,10 @@
 # DataStructures
 
-Projekt na uczelnie. Projekt realizowany na zajęcia z Struktur danych i złożonosci obliczeniowej.<br/>
-Badanie efektywności operacji dodawania, usuwania oraz wyszukiwania elementów w różnych strukturach danych.<br/>
-<br/>
-W programie zaimplementowane są struktury danych:
-<br/>kopiec
-<br/>lista dwukierunkowa
-<br/>drzewo BST
-<br/>tablica<br/>
-oraz operacje na nich.
+Project created for universities. Project implemented for classes from Data structures and computational complexity. Researching the effectiveness of adding, removing and searching for elements in various data structures.
+<br/><br/>
+The program implements data structures:
+<br/>Heap 
+<br/>Doubly linked list
+<br/>Binary Search Tree
+<br/>Table
+<br/>and operations on them
